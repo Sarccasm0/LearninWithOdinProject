@@ -8,3 +8,4 @@ why im jumping to ruby?
 Cuz that first programming languaje I choosed so here i am.
 
 So let's start with my journey.
+🐱‍👤🐱‍👤
