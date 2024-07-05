@@ -1,4 +1,4 @@
-
+#Game of rock paper scissors
 puts "1:Rock,2:paper or 3:scissors?"
 playerChoice = gets.chomp()
 puts  'Tu escogiste ' + playerChoice

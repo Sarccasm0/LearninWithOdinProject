@@ -35,6 +35,6 @@ MarvelBatman.has_illustrations
 #Creating the objects
 Filthybook = Book.new("50 sombras del platano", "sywon", 1500, false)
 Halo2  = Book.new("Halo 2", "343i", 900, true)
-
+#Learning clases
 puts Filthybook.has_illustrations
 puts Halo2.has_illustrations
