@@ -9,7 +9,7 @@ computerChoice = rand(1..3)
 if computerChoice == playerChoice
   puts "Empate"
 
-elsif computerChoice == 1 && playerChoice == 2 
+elsif computerChoice == 1 && playerChoice == 2
   puts "Ganaste"
 
 elsif computerChoice == 1 && playerChoice == 3
